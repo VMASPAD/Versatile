@@ -1,5 +1,7 @@
 # Versatile
 
+![Versatile](preview.png)
+
 Versatile is an all-in-one scalable ad network, link-in-bio provider, and monetized shortlink platform. It consists of a high-performance NestJS backend, an interactive React frontend dashboard, and a custom NoSQL in-memory database built in Rust (SarychDB).
 
 ## Features
